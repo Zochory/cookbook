@@ -9,7 +9,7 @@ https://github.com/Chainlit/cookbook/assets/494686/c5d608bd-7480-42cc-b21f-74989
 1. Optional: create your python virtual environment and activate it.
 
 2. Install the dependencies:
-
+cd
 ```
 pip install chainlit pyautogen
 ```
